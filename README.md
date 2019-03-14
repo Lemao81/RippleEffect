@@ -1,3 +1,5 @@
+Fork for own customizations
+
 RippleEffect 1.3.1
 ================
 This is not the original repo of this project, but a fork to fix the crash problem when targeting API 22+. The bug was fixed by [@rasoulmiri](https://github.com/rasoulmiri/RippleEffect) and I just uploaded it so you can add the dependency in gradle.
